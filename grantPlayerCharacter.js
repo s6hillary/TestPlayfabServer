@@ -8,7 +8,7 @@ handlers.grantPlayerCharacter = function (args, context) {
             CharacterType: "Archer"
         };
 
-        var playerStatResult = server.UpdatePlayerStatistics(request);
+        var playerStatResult = server.GrantCharacterToUser(request);
 
         return { messageValue: 'Character created!' };
     } catch (ex) {
