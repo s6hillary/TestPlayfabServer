@@ -29,7 +29,6 @@
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
 // This is a Cloud Script function. "args" is set to the value of the "FunctionParameter" 
 // parameter of the ExecuteCloudScript API.
 // (https://api.playfab.com/Documentation/Client/method/ExecuteCloudScript)
