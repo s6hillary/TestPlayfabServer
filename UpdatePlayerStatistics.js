@@ -7,7 +7,6 @@ handlers.updatePlayerStatistics = function (args, context) {
             "Statistics": [
             {
                 "StatisticName": "Points",
-                "Version": 1,
                 "Value": 600
             }
           ]
