@@ -9,15 +9,6 @@ handlers.updatePlayerStatistics = function (args, context) {
                 "StatisticName": "Points",
                 "Version": 1,
                 "Value": 600
-            },
-            {
-                "StatisticName": "Wins",
-                "Version": 2,
-                "Value": 16
-            },
-            {
-                "StatisticName": "Stars",
-                "Value": 7
             }
           ]
         }
